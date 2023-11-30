@@ -6,4 +6,4 @@ Questions and answers should be prepared in the following format:
 - [Question text]
 - [Reply text]
 
-![How It Works?](https://github.com/pefbrute/Make-Anki-Cards/blob/main/Anki%20Maker.gif)
+![How It Works?](https://github.com/pefbrute/Make-Anki-Cards/blob/main/cut_Anki%20Maker.gif)
